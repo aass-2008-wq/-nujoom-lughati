@@ -1,1 +1,1 @@
-window.NUJOOM_CONFIG={apiUrl:'',schoolName:'مدرسة الإمام الشوكاني الابتدائية',teacherName:'مقرن المطيري'};
+window.NUJOOM_CONFIG={apiUrl:'https://script.google.com/macros/s/AKfycbzpXfGz2b1mBEVO_V_6x3dLbyhpeQJkQMqsfvDHQXzJkt7Gx7xwjaCUDfax5VWpNLM/exec',schoolName:'مدرسة الإمام الشوكاني الابتدائية',teacherName:'مقرن المطيري'};
